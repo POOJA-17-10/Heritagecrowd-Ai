@@ -1,0 +1,7 @@
+{
+  "name": "HeritageCrowd AI - OptimizedBooking",
+  "description": "An AI-driven platform for managing and visiting cultural heritage sites with real-time crowd prediction and time-slot optimization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
